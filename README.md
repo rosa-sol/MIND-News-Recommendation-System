@@ -1,5 +1,6 @@
 ### MIND-News-Recommendation-System
 #### Directory Structure
+
 mind-recommender/
 ├── data/
 │   ├── MINDsmall_train/
